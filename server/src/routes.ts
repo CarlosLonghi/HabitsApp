@@ -70,7 +70,7 @@ export async function appRoutes(app: FastifyInstance) {
     // Validation if day is null
     const completedHabits = day?.dayHabits.map(dayHabit => {
       return dayHabit.habit_id
-    })
+    }) ?? []
 
     return {
       possibleHabits,
