@@ -40,9 +40,7 @@ export function Home() {
     try {
       setLoading(true)
       const response = await api.get('/summary')
-      setSummary(response.data)
-      console.log(response.data);
-
+      setSummary(response.data) 
     } catch (error) {
       Alert.alert('Erro', 'Não foi possível carregar o sumário de hábitos!')
       console.log(error)
@@ -55,10 +53,9 @@ export function Home() {
     fetchData()
   }, [])
 
-  //  XXXX BUG XXXXX 'Infinite loading': [AxiosError: Network Error]
-  // if(loading) {
-  //   return <Loading/>
-  // }
+  if(loading) {
+    return <Loading/>
+  }
 
   return (
     <View className="flex-1 bg-background px-8 pt-16">
