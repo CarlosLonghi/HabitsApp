@@ -53,11 +53,11 @@ npm start
 
 ## Mobile Screenshots
 
-<div style="display: inline_block">
- <img align="center" height="500" width="250" margin-rigth="30px" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/Home.png">
+<div style="display: inline_block" align="center" >
+ <img align="center" height="600" width="300" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/Home.png">
+
+ <img align="center" height="600" width="300" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/NewHabit.png">
  
- <img align="center" height="500" width="250" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/NewHabit.png">
- 
- <img align="center" height="500" width="250" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/HabitCard.png">
+ <img align="center" height="600" width="300" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/HabitCard.png">
 </div>
 
