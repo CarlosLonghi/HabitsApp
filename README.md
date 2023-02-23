@@ -43,16 +43,7 @@ yarn install
 npm start
 ```
 
-## Web Screenshots
-### Home 
-![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/web/prints/HomePage.png)
-### Habit Create
-![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/web/prints/NewHabit.png)
-### Card
-![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/web/prints/HabitCard.png)
-
 ## Mobile Screenshots
-
 <div style="display: inline_block" align="center" >
  <img align="center" height="600" width="300" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/Home.png">
 
@@ -60,4 +51,12 @@ npm start
  
  <img align="center" height="600" width="300" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/HabitCard.png">
 </div>
+
+## Web Screenshots
+### Home 
+![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/web/prints/HomePage.png)
+### Habit Create
+![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/web/prints/NewHabit.png)
+### Card
+![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/web/prints/HabitCard.png)
 
