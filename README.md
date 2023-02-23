@@ -9,13 +9,13 @@ Neste projeto aprendi os seguintes recursos:
 - Fastify (Framework)
 - dayjs (library)
     
-## Web 
+## Web:
 - React
 - React DOM (library)
 - Radix-ui (accessible library)
 - Tailwind CSS (Framework CSS)
 
-## Mobile
+## Mobile:
 - React Native
 - Expo (tool)
 - Axios (library)
