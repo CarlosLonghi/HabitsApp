@@ -28,7 +28,7 @@ Neste projeto aprendi os seguintes recursos:
 ```bash 
 git clone https://github.com/CarlosLonghi/HabitsApp.git
 ```
-- install dependencies, run in folder `web`, `server` and `mobile`.
+- install dependencies, run in folder SERVER, WEB and MOBILE.
 ```
 npm install
 ```
@@ -38,9 +38,9 @@ yarn install
 ```
 
 ## Run:
-
+- run in folder SERVER, WEB and MOBILE.
 ```bash
-expo start
+npm start
 ```
 
 ## Web Screenshots
@@ -53,7 +53,7 @@ expo start
 
 ## Mobile Screenshots
 ### Home 
-![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/HomePage.png)
+![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/Home.png)
 ### Habit Create
 ![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/NewHabit.png)
 ### Card
