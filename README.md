@@ -52,9 +52,12 @@ npm start
 ![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/web/prints/HabitCard.png)
 
 ## Mobile Screenshots
-### Home 
-![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/Home.png)
-### Habit Create
-![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/NewHabit.png)
-### Card
-![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/HabitCard.png)
+
+<div style="display: inline_block">
+ <img align="center" height="500" width="250" margin-rigth="30px" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/Home.png">
+ 
+ <img align="center" height="500" width="250" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/NewHabit.png">
+ 
+ <img align="center" height="500" width="250" src="https://github.com/CarlosLonghi/HabitsApp/blob/main/mobile/prints/HabitCard.png">
+</div>
+
