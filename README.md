@@ -23,6 +23,26 @@ Neste projeto aprendi os seguintes recursos:
 - NativeWind
 - React Native Reanimated (Animation library)
 
+## Install:
+- Clone repository:
+```bash 
+git clone https://github.com/CarlosLonghi/HabitsApp.git
+```
+- install dependencies, run in folder `web`, `server` and `mobile`.
+```
+npm install
+```
+or
+```
+yarn install
+```
+
+## Run:
+
+```bash
+expo start
+```
+
 ## Web Screenshots
 ### Home 
 ![Web Screenshot](https://github.com/CarlosLonghi/HabitsApp/blob/main/web/prints/HomePage.png)
